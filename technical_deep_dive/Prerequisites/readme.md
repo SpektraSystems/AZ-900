@@ -2,6 +2,7 @@
 
 1. Resource Group RG-01 - Empty 
 2. Resource Group RG-02 - Pre-created Resources as listed below:
+
 i. Windows Virtual Machines
 
 ii. Load Balancer
