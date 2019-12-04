@@ -8,7 +8,7 @@ This lab guide will help you in getting started on accessing the hands-on lab fo
 
 **Contents**
  
- * [Lab Overview](./)
+ * [Lab Overview](./technical_deep_dive/Lab_Overview)
  * [Prerequisites](./)
  * [Module1: Explore Azure portal and understand cloud concepts (15-20%)](./)
  * [Module2: Understand core Azure services (30-35%)](./)
