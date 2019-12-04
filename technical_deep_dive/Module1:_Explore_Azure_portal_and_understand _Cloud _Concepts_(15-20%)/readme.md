@@ -1,4 +1,6 @@
-# What is the Azure portal?
+# Module1: Explore Azure Portal and understand cloud concepts (15-20%)
+
+## What is the Azure portal?
 
 The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription using a graphical user interface. You can build, manage, and monitor everything from simple web apps to complex cloud deployments, create custom dashboards for an organized view of resources, and configure accessibility options for the best experience.
 The Azure portal is designed for resiliency and continuous availability. It has a presence in every Azure Datacenter thereby making it resilient to individual Datacenter failures and avoids network slowdowns by being close to users. The Azure portal updates continuously and requires no downtime for maintenance activities.
