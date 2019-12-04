@@ -1,6 +1,4 @@
-# AZ-900
-
-## Exam AZ-900: Microsoft Azure Fundamentals
+# AZ-900: Microsoft Azure Fundamentals
 
 ## Accessing Hands-on Lab
 
