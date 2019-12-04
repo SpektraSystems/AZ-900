@@ -43,15 +43,25 @@ In these steps, you will provision a Web App within a single App Service Plan
 ![](images/work.png)
 
 On the Create Web App blade, enter the following:
+
 •	Subscription: Select your subscription.
+
 •	Resource Group: Select Use existing, and select the **RG-01** resource group.
-•	Name: Provide a unique name 
+
+•	Name: Provide a unique name
+
 •	Runtime stack: ASP.NET 4.7
+
 •	Publish: Choose Code option.
+
 •	OS: Windows
+
 •	Region: Try any US Region
+
 •	App Service plan: (S1)
+
 •	Select Review and Create to provision both Web App and the App Service Plan. Select the Create button.
+
 •	When provisioning completes, navigate to your new Web App in the portal by selecting on App Services, and then selecting your web app to check out the web app you created. 
 
 
