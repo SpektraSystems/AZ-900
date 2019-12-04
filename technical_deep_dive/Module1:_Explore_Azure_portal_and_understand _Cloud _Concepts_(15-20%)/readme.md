@@ -33,7 +33,7 @@ There are some important factors to consider when defining your resource group:
 •	A resource group can contain resources that are located in different regions.
 •	A resource group can be used to scope access control for administrative actions.
 
-iii.	**Azure Cloud Shell:**
+3.	**Azure Cloud Shell:**
 
 Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell.
 Launch Azure Cloud Shell:
