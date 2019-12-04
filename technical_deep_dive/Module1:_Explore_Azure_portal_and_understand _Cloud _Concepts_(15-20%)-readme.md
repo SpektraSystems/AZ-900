@@ -12,7 +12,7 @@ The Azure portal is designed for resiliency and continuous availability. It has 
 2.	Once you logged-in successfully, you’d be able to access the Azure Portal as shown in below image:
 ![](images/work.png)
 
->Note: You can close the recommendations window as this is not needed for this lab. 
+>Note: You can close the recommendations window as it is not needed for this lab. 
 
 **Azure Dashboard**
 
