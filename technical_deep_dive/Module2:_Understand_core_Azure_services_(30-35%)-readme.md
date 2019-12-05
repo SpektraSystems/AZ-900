@@ -51,7 +51,8 @@ On the Create Web App blade, enter the following:
 
 ## Use of pre-created resources you have:
 
-1. Windows Virtual machines:
+**Windows Virtual machines:**
+
 You have two windows virtual machines which has been configured with Availability Sets and Load Balancer
 
 **Use of Availibility Sets in Azure**
@@ -81,6 +82,29 @@ To distribute traffic to the VMs, the load balancer uses a back-end address pool
 3. Load Balancer Rule:
 
 A load balancer rule defines the frontend IP configuration for the incoming traffic and the backend pool to receive the traffic, along with the required source and destination port.
+
+## Explore RG-02 and review the resources you have. 
+
+1. Navigate to Resource Groups
+
+2. Click on RG-02 resource group, now you will see the list of pre-created resources you have. 
+
+3. We have installed IIS servers on both the VMs so that you can test the load among both VMs
+
+**IIS Server**: 
+IIS is a web server application that comes with Windows Server and is used to serve up web sites while Azure is a Windows hosting solution that utilizes IIS
+
+**Please follow the below steps to test the load on VMs:**
+
+1. Navigate to RG-02 and click on load balancer
+
+
+2. As, we have configured the VMs with load balancer so now we can test the load by browing the Load Balancer Public IP. Copy the load balancer IP and browse to see the output:
+
+3. It will distributes the load among both the VMs, when it distrubutes the load to VM-01 you will see the output similar as below:
+
+
+
 
 
 
