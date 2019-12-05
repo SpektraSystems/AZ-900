@@ -1,32 +1,31 @@
-[Home](./../README.md)
 # Pre-requisites
 
 1. An Azure subscription
 2. Resource Group RG-01 - Empty 
 3. Resource Group RG-02 - Pre-created Resources as listed below:
 
-i. Windows Virtual Machines
+  i. Windows Virtual Machines
 
-ii. Load Balancer
+  ii. Load Balancer
 
-iii. Virtual Network
+  iii. Virtual Network
 
-iv. Storage Account
+  iv. Storage Account
 
-v. Web App Service
+  v. Web App Service
 
-vi. ACI
+  vi. ACI
 
-vii. VM Scale Sets
+  vii. VM Scale Sets
 
-viii. Azure DBs
-* Azure DBs 
-* SQL 
-* MySQL 
-* Postgresql 
-* CosmosDB 
-* DMS 
+  viii. Azure DBs
+  * Azure DBs 
+  * SQL 
+  * MySQL 
+  * Postgresql 
+  * CosmosDB 
+  * DMS 
+  
+  ix.	AKS
 
-ix.	AKS
-
-x.	IOT
+  x.	IOT
