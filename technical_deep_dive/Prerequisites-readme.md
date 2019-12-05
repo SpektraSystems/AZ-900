@@ -1,7 +1,8 @@
 ## Pre-requisites
 
-1. Resource Group RG-01 - Empty 
-2. Resource Group RG-02 - Pre-created Resources as listed below:
+1. An Azure subscription
+2. Resource Group RG-01 - Empty 
+3. Resource Group RG-02 - Pre-created Resources as listed below:
 
 i. Windows Virtual Machines
 
