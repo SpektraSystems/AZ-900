@@ -157,7 +157,7 @@ Please follow these steps to deploy a Azure web app service if you haven't creat
 
 > You can see the status of web app is running now. 
 
-![](images/running.png)
+![](images/runningapp.png)
 
 
 
