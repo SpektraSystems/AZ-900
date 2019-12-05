@@ -42,6 +42,8 @@ In these steps, you will provision a Web App within a single App Service Plan
 2.	Select +Create a resource, then select Web and finally select Web App. Select the Create button.
 ![](images/work.png)
 
+![](images/webapp1.png)
+
 On the Create Web App blade, enter the following:
 
 •	Subscription: Select your subscription.
@@ -63,5 +65,9 @@ On the Create Web App blade, enter the following:
 •	Select Review and Create to provision both Web App and the App Service Plan. Select the Create button.
 
 •	When provisioning completes, navigate to your new Web App in the portal by selecting on App Services, and then selecting your web app to check out the web app you created. 
+
+![](images/webappcreatebasic.png)
+
+
 
 
