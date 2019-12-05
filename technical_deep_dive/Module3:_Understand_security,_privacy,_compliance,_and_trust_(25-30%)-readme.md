@@ -1,6 +1,4 @@
-
-
-# Lab TOC: 
+# Lab Contents:
 
 * Login to Azure 
 
@@ -62,7 +60,7 @@
 
 * Launch Azure Monitor 
 
-1. Browse through matrices, alerts 
+* Browse through matrices, alerts 
 
 * Verify Azure Service Health 
 
