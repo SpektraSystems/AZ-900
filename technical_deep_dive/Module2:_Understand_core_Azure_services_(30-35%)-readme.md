@@ -1,6 +1,6 @@
 # Module 2: Understand core Azure services (30-35%) 
 
-## Pre-crated Resource Groups
+## Pre-created Resource Groups
 
 **Resource Group RG-01**
 This is a pre-created Resource Group which is empty and can be used to deploy any new Azure resources, if needed.
@@ -8,7 +8,7 @@ This is a pre-created Resource Group which is empty and can be used to deploy an
 **Resource Group RG-02**
 Another pre-created RG but having resources already deployed in it. Pre-created resources are listed below:
 
-i. Windows Virtual Machines
+i. Windows Virtual Machines 
 
 ii. Load Balancer
 
@@ -122,6 +122,50 @@ IIS is a web server application that comes with Windows Server and is used to se
 > When it distrubutes the load to **VM-02** you will see the output similar as below:
 
 ![](images/vm-02load.png)
+
+## Deploy a Web App Service in Azure and perform basic operations:
+
+Please follow these steps to deploy a Azure web app service if you haven't created previously:
+
+1. Click on + create new resource on the left top corner. Search for **web app** in the search bar
+
+![](images/web.png)
+
+2. On the Create Web App blade, enter the following:
+
+•	Subscription: Select your subscription.
+
+•	Resource Group: Select Use existing, and select the **RG-01** resource group.
+
+•	Name: Provide a unique name
+
+•	Runtime stack: ASP.NET 4.7
+
+•	Publish: Choose Code option.
+
+•	OS: Windows
+
+•	Region: Try any US Region
+
+•	App Service plan: (S1)
+
+•	Select Review and Create to provision both Web App and the App Service Plan. Select the Create button.
+
+![](images/web09.png)
+
+•	When provisioning completes, navigate to your new Web App in the portal by selecting on App Services, and then selecting your web app to check out the web app you created.
+
+> You can see the status of web app is running now. 
+
+![](images/running.png)
+
+
+
+
+
+
+
+
 
 
 
