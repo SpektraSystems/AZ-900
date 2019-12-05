@@ -163,6 +163,9 @@ Please follow these steps to deploy a Azure web app service if you haven't creat
 
 ![](images/browseapp.png)
 
+> Now you will see the similar output as below:
+
+![](images/output.png)
 
 
 
