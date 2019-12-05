@@ -14,7 +14,7 @@ ii. Load Balancer
 
 iii. Virtual Network
 
-iv. VMs had been configured with Load Balancer and Availability Sets
+iv. VMs has been configured with Load Balancer and Availability Sets
 
 ## Lab 1: Try the possible regions in a new resource deployment
 
