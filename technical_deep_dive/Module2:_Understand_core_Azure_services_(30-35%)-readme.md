@@ -111,7 +111,16 @@ IIS is a web server application that comes with Windows Server and is used to se
 
 ![](images/copylbip.png)
 
-3. It will distributes the load among both the VMs, when it distrubutes the load to VM-01 you will see the output similar as below:
+3. It will distributes the load among both the VMs. 
+
+> When it distrubutes the load to **VM-01** you will see the output similar as below:
+
+![](images/vm-01load.png)
+
+> When it distrubutes the load to **VM-02** you will see the output similar as below:
+
+![](images/vm-02load.png)
+
 
 
 
