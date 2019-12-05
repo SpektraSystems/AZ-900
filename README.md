@@ -2,7 +2,6 @@
 
 ## Accessing Hands-on Lab
 
-**Overview**
 
 This lab guide will help you in getting started on accessing the hands-on lab for Exam AZ-900 Microsoft Azure Fundamentals.
 
