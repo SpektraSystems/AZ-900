@@ -50,6 +50,18 @@ You can launch azure shell using Azure portal by clicking on shell icon as shown
 
 ## Few Basic Commands:
 
-**Login to your Azure account from the Azure Cloud Shell
-```az login
+**Login to your Azure account from the Azure Cloud Shell**
 ```
+az login
+```
+**Create a new resource group in your subscription**
+```
+az group create --name MyResourceGroup --location westus
+```
+
+**Create a new storage account in the resource groupu you created previously**
+```
+az storage account create -n mystorageaccount09 -g MyResourceGroup -l westus --sku Standard_LRS
+```
+> Storage account name must be between 3 and 24 characters in length and use numbers and lower-case letters only.
+ 
