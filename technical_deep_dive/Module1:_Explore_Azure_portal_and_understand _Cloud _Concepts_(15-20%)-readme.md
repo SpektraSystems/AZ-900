@@ -57,7 +57,7 @@ az login
 az group create --name MyResourceGroup --location westus
 ```
 
-**Create a new storage account in the resource groupu you created previously**
+**Create a new storage account in the resource group you created previously**
 ```
 az storage account create -n mystorageaccount09 -g MyResourceGroup -l westus --sku Standard_LRS
 ```
