@@ -6,7 +6,8 @@
 
 This lab guide will help you in getting started on accessing the hands-on lab for Exam AZ-900 Microsoft Azure Fundamentals.
 
-# **Contents**
+
+**Contents**
  
  * [Lab Overview](./technical_deep_dive/Lab_Overview-readme.md#lab-overview)
  * [Prerequisites](./technical_deep_dive/Prerequisites-readme.md#pre-requisites)
