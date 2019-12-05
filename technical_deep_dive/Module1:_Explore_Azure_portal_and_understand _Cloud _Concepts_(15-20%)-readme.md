@@ -52,3 +52,4 @@ You can launch azure shell using Azure portal by clicking on shell icon as shown
 
 **Login to your Azure account from the Azure Cloud Shell
 ```az login
+```
