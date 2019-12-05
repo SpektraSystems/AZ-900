@@ -159,6 +159,11 @@ Please follow these steps to deploy a Azure web app service if you haven't creat
 
 ![](images/runningapp.png)
 
+**You can browse the web app by navigating the URL as shown in below image** ( you can copy/paste the URL **OR** just lick on browse button.
+
+![](images/browseapp.png)
+
+
 
 
 
