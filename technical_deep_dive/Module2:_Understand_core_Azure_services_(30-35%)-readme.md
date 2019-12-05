@@ -14,26 +14,6 @@ ii. Load Balancer
 
 iii. Virtual Network
 
-iv. Storage Account
-
-v. Web App Service
-
-vi. ACI
-
-vii. VM Scale Sets
-
-viii. Azure DBs
-* Azure DBs 
-* SQL 
-* MySQL 
-* Postgresql 
-* CosmosDB 
-* DMS 
-
-ix.	AKS
-
-x.	IOT
-
 ## Lab 1: Try the possible regions in a new resource deployment
 
 In these steps, you will provision a Web App within a single App Service Plan
@@ -68,6 +48,8 @@ On the Create Web App blade, enter the following:
 
 •	When provisioning completes, navigate to your new Web App in the portal by selecting on App Services, and then selecting your web app to check out the web app you created. 
 
+
+## Use of existing Resources you have:
 
 
 
