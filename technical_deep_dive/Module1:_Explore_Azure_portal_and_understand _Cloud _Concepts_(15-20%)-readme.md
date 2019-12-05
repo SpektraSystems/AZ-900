@@ -1,5 +1,3 @@
-[Home](./../README.md)
-
 # Module 1: Explore Azure Portal and understand cloud concepts (15-20%)
 
 ## What is the Azure portal?
