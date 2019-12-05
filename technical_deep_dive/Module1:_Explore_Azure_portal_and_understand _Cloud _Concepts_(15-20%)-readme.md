@@ -31,10 +31,11 @@ A container that holds related resources for an Azure solution. The resource gro
 There are some important factors to consider when defining your resource group:
 
 •	All the resources in your group should share the same lifecycle. You deploy, update, and delete them together. If one resource, such as a database server, needs to exist on a different deployment cycle it should be in another resource group.
+
 •	Each resource can only exist in one resource group.
-•	You can add or remove a resource to a resource group at any time.
-•	You can move a resource from one resource group to another group. 
+
 •	A resource group can contain resources that are located in different regions.
+
 •	A resource group can be used to scope access control for administrative actions.
 
 3.	**Azure Cloud Shell:**
