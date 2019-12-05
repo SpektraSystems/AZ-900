@@ -64,9 +64,11 @@ On the Create Web App blade, enter the following:
 
 •	Select Review and Create to provision both Web App and the App Service Plan. Select the Create button.
 
+![](images/webappcreatebasic.png)
+
 •	When provisioning completes, navigate to your new Web App in the portal by selecting on App Services, and then selecting your web app to check out the web app you created. 
 
-![](images/webappcreatebasic.png)
+
 
 
 
