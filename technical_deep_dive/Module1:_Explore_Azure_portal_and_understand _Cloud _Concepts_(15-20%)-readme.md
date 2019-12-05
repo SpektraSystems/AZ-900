@@ -10,7 +10,7 @@ The Azure portal is designed for resiliency and continuous availability. It has 
 
 1.	Navigate to: https://portal.azure.com/ to access Azure Portal with provided Azure Credentials.
 
-![](images/login.png)
+![](images/login1.png)
 
 2.	Once you logged-in successfully, you’d be able to access the Azure Portal as shown in below image:
 
