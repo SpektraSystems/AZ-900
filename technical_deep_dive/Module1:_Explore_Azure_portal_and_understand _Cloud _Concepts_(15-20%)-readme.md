@@ -9,10 +9,11 @@ The Azure portal is designed for resiliency and continuous availability. It has 
 ## Follow the below steps to Login into Azure Portal:
 
 1.	Navigate to: https://portal.azure.com/ to access Azure Portal with provided Azure Credentials.
-  ![](images/work.png)
+
+![](images/login.png)
 
 2.	Once you logged-in successfully, you’d be able to access the Azure Portal as shown in below image:
-![](images/work.png)
+![](images/recclose.png)
 
 >Note: You can close the recommendations window as it is not needed for this lab. 
 
@@ -43,4 +44,5 @@ There are some important factors to consider when defining your resource group:
 Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell.
 Launch Azure Cloud Shell:
 You can launch azure shell using Azure portal by clicking on shell icon as shown below. Users can use drop-down option to select Bash or Powershell as per their requirements. 
-![](images/work.png)
+
+![](images/cloudshell.png)
