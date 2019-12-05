@@ -14,13 +14,14 @@ ii. Load Balancer
 
 iii. Virtual Network
 
+iv. VMs had been configured with Load Balancer and Availability Sets
+
 ## Lab 1: Try the possible regions in a new resource deployment
 
 In these steps, you will provision a Web App within a single App Service Plan
 
 1.	Sign into the Azure Portal (https://portal.azure.com).
 2.	Select +Create a resource, then select Web and finally select Web App. Select the Create button.
-![](images/work.png)
 
 ![](images/webapp1.png)
 
@@ -79,7 +80,7 @@ Load Balancer provides different health probe types for TCP, HTTP, and HTTPS end
 
 To distribute traffic to the VMs, the load balancer uses a back-end address pool. The back-end address pool contains the IP addresses of the virtual network interfaces (NICs) that are connected to the load balancer.( We add the VMs here to get configured it with load balancer)
 
-3. Load Balancer Rule:
+3. Load Balancing Rule:
 
 A load balancer rule defines the frontend IP configuration for the incoming traffic and the backend pool to receive the traffic, along with the required source and destination port.
 
@@ -87,8 +88,16 @@ A load balancer rule defines the frontend IP configuration for the incoming traf
 
 1. Navigate to Resource Groups
 
-2. Click on RG-02 resource group, now you will see the list of pre-created resources you have. 
+![](images/rgnavigate.png)
 
+2. Click on RG-02 resource group 
+
+![](images/rg02.png)
+
+ Now you will see the list of pre-created resources you have.
+ 
+![](images/resources.png)
+ 
 3. We have installed IIS servers on both the VMs so that you can test the load among both VMs
 
 **IIS Server**: 
@@ -98,8 +107,9 @@ IIS is a web server application that comes with Windows Server and is used to se
 
 1. Navigate to RG-02 and click on load balancer
 
-
 2. As, we have configured the VMs with load balancer so now we can test the load by browing the Load Balancer Public IP. Copy the load balancer IP and browse to see the output:
+
+![](images/copylbip.png)
 
 3. It will distributes the load among both the VMs, when it distrubutes the load to VM-01 you will see the output similar as below:
 
