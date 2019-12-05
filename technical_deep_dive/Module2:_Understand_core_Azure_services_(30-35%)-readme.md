@@ -16,6 +16,8 @@ iii. Virtual Network
 
 iv. VMs has been configured with Load Balancer and Availability Sets
 
+v. NSG Rules like RDP and HTTP ( port no. 3389 80 has been enabled )
+
 ## Lab 1: Try the possible regions in a new resource deployment
 
 In these steps, you will provision a Web App within a single App Service Plan
