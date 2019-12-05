@@ -47,3 +47,8 @@ Launch Azure Cloud Shell:
 You can launch azure shell using Azure portal by clicking on shell icon as shown below. Users can use drop-down option to select Bash or Powershell as per their requirements. 
 
 ![](images/cloudshell.png)
+
+## Few Basic Commands:
+
+**Login to your Azure account from the Azure Cloud Shell
+```az login
