@@ -1,0 +1,91 @@
+[
+  {
+    "Name": "AAZ-900T0x-MicrosoftAzureFundamentals",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/01-Create%20a%20virtual%20machine.md",
+        "Order": 1
+
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/02-Deploy%20Azure%20Container%20Instances.md",
+        "Order": 2
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/03-Create%20a%20virtual%20network.md",
+        "Order": 3
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/04-Create%20Blob%20storage.md",
+        "Order": 4
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/05-Create%20a%20SQL%20database.md",
+        "Order": 5
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/06-Implement%20the%20Azure%20IoT%20Hub.md",
+        "Order": 6
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/07-Implement%20Azure%20Functions.md",
+        "Order": 7
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/08-Create%20a%20Web%20App.md",
+        "Order": 8
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/09-Create%20a%20VM%20with%20a%20Template.md",
+        "Order": 9
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/10-Create%20a%20VM%20with%20PowerShell.md",
+        "Order": 10
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/11-Create%20a%20VM%20with%20the%20CLI.md",
+        "Order": 11
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/12-Secure%20network%20traffic.md",
+        "Order": 12
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/13-Implement%20Azure%20Key%20Vault.md",
+        "Order": 13
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/14-Create%20an%20Azure%20Policy.md",
+        "Order": 14
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/15-Manage%20access%20with%20RBAC.md",
+        "Order": 15
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/16-Manage%20resource%20locks.md",
+        "Order": 16
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/17-Implement%20resource%20tagging.md",
+        "Order": 17
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/18-Explore%20the%20Trust%20Center.md",
+        "Order": 18
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/19-Use%20the%20Azure%20Pricing%20Calculator.md",
+        "Order": 19
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/20-Use%20the%20Azure%20TCO%20Calculator.md",
+        "Order": 20
+      },{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/21-Open%20a%20Support%20Request.md",
+        "Order": 21
+      },
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/22-Calculate%20Composite%20SLAs.md",
+        "Order": 22
+	},
+{
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/master/Instructions/Walkthroughs/23-Access%20Azure%20Preview%20features.md",
+        "Order": 23
+	},
+
+    ]
+  }
+]
