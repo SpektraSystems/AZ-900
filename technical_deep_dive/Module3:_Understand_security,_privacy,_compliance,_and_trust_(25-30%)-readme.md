@@ -2,37 +2,27 @@
 
 ## Lab Contents:
 
-* Login to Azure 
+1. Login to azure portal using credentials given in your environment detail page.
 
-* Verify and Explain Network Security 
+2. Verify the Network Security Group:
 
-* NSG 
+* Add new rule in existing Network Security Group
 
-* Add Rules in existing NSG 
+3. Go through the Azure Firewall, Azure DDoS and Azure Identity Services
 
-* ASG 
+4. Browse Azure Active Directory
 
-1. View and verify ASG 
+5. Browse Multi-factor authentication and Conditional Access Policies
 
-2. Azure Firewall 
+6. Try MFA with student account
 
-* Azure DDOS 
+7. Browse Azure Information Protection Policies 
 
-* Azure Identity Services 
+## Azure Security Center 
 
-* Browse Azure AD 
+1. Launch Azure Security in Azure portal
 
-* Browse MFA/Conditional Access Policies 
-
-* Try MFA with student account 
-
-* Browse Azure Information Protection Policies 
-
-* Azure Security Center 
-
-* Launch Azure Security 
-
-* Go through security alerts/recommendations 
+2. Go through security alerts/recommendations 
 
 * Verify & explain Azure Key vault: 
 
