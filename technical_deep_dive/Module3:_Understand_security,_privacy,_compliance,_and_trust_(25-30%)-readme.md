@@ -82,7 +82,9 @@ As an administrator, you may need to lock a subscription, resource group, or res
 
 **CanNotDelete** means authorized users can still read and modify a resource, but they can't delete the resource.
 
-**ReadOnly** means authorized users can read a resource, but they can't delete or update the resource. Applying this lock is similar to restricting all authorized users to the permissions granted by the Reader role.
+**ReadOnly** means authorized users can read a resource, but they can't delete or update the resource. Applying this lock is similar to restricting all authorized users to the permissions granted by the Reader role.<br/>
+
+   <img src="images/lock.jpg"/><br/>
 
 ### What is Azure Blueprints?
    
@@ -106,7 +108,7 @@ With Advisor, you can:
 Get proactive, actionable, and personalized best practices recommendations.
 Improve the performance, security, and reliability of your resources, as you identify opportunities to reduce your overall Azure spend.
 Get recommendations with proposed actions inline.
-You can access Advisor through the Azure portal. Sign in to the portal, locate Advisor in the navigation menu, or search for it in the All services menu.
+You can access Advisor through the Azure portal. Sign in to the portal, locate Advisor in the navigation menu, or search for it in the All services menu.<br/>
    <img src="images/ad.jpg"/><br/>
 
 ### Azure Monitor overview
@@ -121,7 +123,7 @@ Drill into your monitoring data with Log Analytics for troubleshooting and deep 
 Support operations at scale with smart alerts and automated actions.
 Create visualizations with Azure dashboards and workbooks.
 
-* Launch Azure Monitor, Browse through matrices, alerts:
+* Launch Azure Monitor, Browse through matrices, alerts:<br/>
 
    <img src="images/oitor.jpg"/><br/>
 
