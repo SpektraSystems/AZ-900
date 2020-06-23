@@ -1,8 +1,6 @@
 # Module 4: Azure Pricing and Support (20-25%)
 
-## Pre-created resources
-
-RG-01 - Empty
+In this module, you will focus on pricing and support models available with Microsoft
 
 * Login to Azure
 
