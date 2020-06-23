@@ -1,5 +1,7 @@
 # Module 1: Explore Azure Portal and Understand Cloud Concepts (15-20%)
 
+In this module you will learn basic cloud concepts.
+
 ## What is the Azure portal?
 
 The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription using a graphical user interface. You can build, manage, and monitor everything from simple web apps to complex cloud deployments, create custom dashboards for an organized view of resources, and configure accessibility options for the best experience.
