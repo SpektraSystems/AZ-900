@@ -1,4 +1,6 @@
-# Module 1: Explore Azure Portal and understand cloud concepts (15-20%)
+# Module 1: Explore Azure Portal and Understand Cloud Concepts (15-20%)
+
+In this module you will learn basic cloud concepts.
 
 ## What is the Azure portal?
 
