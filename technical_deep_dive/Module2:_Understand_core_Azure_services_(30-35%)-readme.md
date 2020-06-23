@@ -1,5 +1,7 @@
 # Module 2: Understand Core Azure Services (30-35%) 
 
+In this module you will learn the basics core services available with Microsoft Azure
+
 ## Pre-created Resource Groups
 
 **Resource Group RG-01**
