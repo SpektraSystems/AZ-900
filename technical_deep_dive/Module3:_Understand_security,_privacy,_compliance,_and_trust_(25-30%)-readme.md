@@ -1,4 +1,4 @@
-# Module 3: Understand Security,privacy,c ompliance, and trust (25-30%)
+# Module 3: Understand Security, Privacy, Compliance and Trust (25-30%)
 
 ## Lab Contents:
 
@@ -22,38 +22,34 @@
 
 1. Launch Azure Security in Azure portal
 
-2. Go through security alerts/recommendations 
+2. Go through security alerts/recommendations
 
-* Verify & explain Azure Key vault: 
+* Verify & explain Azure Key vault:
 
-* Azure Governance: 
+## Azure Governance: 
 
-1. Explain RBAC 
+1. Verify RBAC roles
 
-2. Verify RBAC roles 
+2. Verify Policies Deployed
 
-3. Explain Policies 
+3. Try violating policies
 
-4. Verify Policies Deployed 
+4. Check Locks
 
-5. Try violating policies.  
+* Verify Blueprints
 
-* Explain & verify Locks 
+* Azure Advisor
 
-* Explain & Verify Blueprints 
+* Launch Azure Advisor
 
-* Azure Advisor 
+* Go through Recommendations
 
-* Launch Azure Advisor 
+* Azure Monitor
 
-* Go through Recommendations 
+* Launch Azure Monitor
 
-* Azure Monitor 
+* Browse through matrices, alerts
 
-* Launch Azure Monitor 
+* Verify Azure Service Health
 
-* Browse through matrices, alerts 
-
-* Verify Azure Service Health 
-
-* Azure Trust Center Link 
+* Azure Trust Center Link
