@@ -1,4 +1,4 @@
-# Module 2: Understand core Azure services (30-35%) 
+# Module 2: Understand Core Azure Services (30-35%) 
 
 ## Pre-created Resource Groups
 
