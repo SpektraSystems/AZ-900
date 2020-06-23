@@ -1,14 +1,12 @@
-# Module 4: Understand Azure pricing and support (20-25%)  
+# Module 4: Azure Pricing and Support (20-25%)
 
-## Pre-created resources 
+## Pre-created resources
 
-RG-01 - Empty 
+RG-01 - Empty
 
-Lab TOC 
+* Login to Azure
 
-* Login to Azure 
-
-* Browse through Management Groups > Subscriptions 
+* Browse through Management Groups > Subscriptions
 
 * Azure Cost Management 
 
@@ -18,14 +16,14 @@ Lab TOC
 
 * Differentiate based on Tags/RGs etc 
 
-## Understand items 
+## Understand items
 
-* Azure Pricing Calculation 
+* Azure Pricing Calculation
 
-* Use Azure Pricing Calculator 
+* Use Azure Pricing Calculator
 
-* Case Study to calculate pricing for a certain solution 
+* Case Study to calculate pricing for a certain solution
 
-## Raise a support ticket experience. 
+## Raise a support ticket experience
 
-* Review SLA/Lifecycle 
+* Review SLA/Lifecycle
