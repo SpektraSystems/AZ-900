@@ -15,5 +15,3 @@ This lab guide will help you in getting started on accessing the hands-on lab fo
  * Module 3: Understand security, privacy, compliance, and trust (25-30%)]
  * Module 4: Understand Azure pricing and support (20-25%)
  * Quiz
-
-
