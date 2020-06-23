@@ -1,5 +1,7 @@
 # Module 3: Understand Security, Privacy, Compliance and Trust (25-30%)
 
+In this module, you learn about security, privacy, compliance, and trust with Microsoft Azure
+
 ## Lab Contents:
 
 1. Login to azure portal using credentials given in your environment detail page.
