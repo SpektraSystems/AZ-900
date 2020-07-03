@@ -20,38 +20,43 @@ iv. VMs has been configured with Load Balancer and Availability Sets
 
 v. NSG Rules: RDP and HTTP (port no. 3389 80 has been enabled)
 
-## Lab 1: Try the possible regions in a new resource deployment
 
-In these steps, you will provision a Web App within a single App Service Plan
+## Review and Explore resources you have 
 
-1.	Sign into the Azure Portal (https://portal.azure.com).
-2.	Select +Create a resource, then select Web and finally select Web App. Select the Create button.
+1. Navigate to Resource Groups
 
-![](images/webapp1.png)
+![](images/rgnavigate.png)
 
-On the Create Web App blade, enter the following:
+2. Click on RG-02 resource group 
 
-•	Subscription: Select your subscription.
+![](images/resourcegroup.jpg)
 
-•	Resource Group: Select Use existing, and select the **RG-01** resource group.
+ Now you will see the list of pre-created resources you have.
+ 
+![](images/resourcesx.jpg)
+ 
+3. We have installed IIS servers on both the VMs so that you can test the load among both VMs
 
-•	Name: Provide a unique name
+**IIS Server**: 
+IIS is a web server application that comes with Windows Server and is used to serve up web sites while Azure is a Windows hosting solution that utilizes IIS
 
-•	Runtime stack: ASP.NET 4.7
+**Please follow the below steps to test the load on VMs:**
 
-•	Publish: Choose Code option.
+1. Navigate to RG-02 and click on load balancer
 
-•	OS: Windows
+2. As, we have configured the VMs with load balancer so now we can test the load by browing the Load Balancer Public IP. Copy the load balancer IP and browse to see the output:
 
-•	Region: Try any US Region
+![](images/mylb.jpg)
 
-•	App Service plan: (S1)
+3. It will distributes the load among both the VMs based on the traffic load. 
 
-•	Select Review and Create to provision both Web App and the App Service Plan. Select the Create button.
+> When it distrubutes the load to **VM-01** you will see the output similar as below:
 
-![](images/webappcreatebasic.png)
+![](images/vm-01load.png)
 
-•	When provisioning completes, navigate to your new Web App in the portal by selecting on App Services, and then selecting your web app to check out the web app you created. 
+> When it distrubutes the load to **VM-02** you will see the output similar as below:
+
+![](images/vm-02load.png)
 
 
 ## Use of pre-created resources you have:
@@ -87,44 +92,6 @@ To distribute traffic to the VMs, the load balancer uses a back-end address pool
 3. Load Balancing Rule:
 
 A load balancer rule defines the frontend IP configuration for the incoming traffic and the backend pool to receive the traffic, along with the required source and destination port.
-
-## Explore RG-02 and review the resources you have. 
-
-1. Navigate to Resource Groups
-
-![](images/rgnavigate.png)
-
-2. Click on RG-02 resource group 
-
-![](images/rg02.png)
-
- Now you will see the list of pre-created resources you have.
- 
-![](images/resources.png)
- 
-3. We have installed IIS servers on both the VMs so that you can test the load among both VMs
-
-**IIS Server**: 
-IIS is a web server application that comes with Windows Server and is used to serve up web sites while Azure is a Windows hosting solution that utilizes IIS
-
-**Please follow the below steps to test the load on VMs:**
-
-1. Navigate to RG-02 and click on load balancer
-
-2. As, we have configured the VMs with load balancer so now we can test the load by browing the Load Balancer Public IP. Copy the load balancer IP and browse to see the output:
-
-![](images/copylbip.png)
-
-3. It will distributes the load among both the VMs based on the traffic load. 
-
-> When it distrubutes the load to **VM-01** you will see the output similar as below:
-
-![](images/vm-01load.png)
-
-> When it distrubutes the load to **VM-02** you will see the output similar as below:
-
-![](images/vm-02load.png)
-
 ## Deploy a Web App Service in Azure and perform basic operations:
 
 Please follow these steps to deploy a Azure web app service if you haven't created previously:
@@ -168,24 +135,3 @@ Please follow these steps to deploy a Azure web app service if you haven't creat
 > Now you will see the similar output as below:
 
 ![](images/output.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
