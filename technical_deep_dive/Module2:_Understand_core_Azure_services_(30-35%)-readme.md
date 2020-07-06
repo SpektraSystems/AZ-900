@@ -29,7 +29,7 @@ v. NSG Rules: RDP and HTTP (port no. 3389 80 has been enabled)
 
 2. Click on RG-02 resource group 
 
-![](images/resourcegroup.jpg)
+![](images/imagerg0102.jpg)
 
  Now you will see the list of pre-created resources you have.
  
